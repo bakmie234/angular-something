@@ -1,0 +1,22 @@
+# Created by https://www.gitignore.io/api/ebst,webstorm,bower
+
+#!! ERROR: ebst is undefined. Use list command to see defined gitignore types !!#
+
+### WebStorm ###
+# Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio
+
+*.iml
+
+## Directory-based project format:
+.idea/
+
+# mpeltonen/sbt-idea plugin
+.idea_modules/
+
+
+
+### Bower ###
+bower_components
+
+### NPM ###
+node_modules

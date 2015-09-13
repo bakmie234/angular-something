@@ -1,0 +1,22 @@
+{
+  "name": "angular-something",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "karma start karma.conf.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bakmie234/angular-something.git"
+  },
+  "author": "bakmie234",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bakmie234/angular-something/issues"
+  },
+  "homepage": "https://github.com/bakmie234/angular-something#readme",
+  "devDependencies": {
+    "karma": "^0.13.9"
+  }
+}

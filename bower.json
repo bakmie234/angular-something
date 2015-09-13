@@ -1,0 +1,17 @@
+{
+  "name": "angular-something",
+  "version": "0.0.0",
+  "homepage": "https://github.com/bakmie234/angular-something",
+  "authors": [
+    "bakmie234 <bakmie234@gmail.com>"
+  ],
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
